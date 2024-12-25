@@ -1,4 +1,4 @@
-# Chirp
+# Xpress
 
 A modern, lightweight frontend clone of **X (formerly Twitter)**, designed to replicate the user interface and core features of a microblogging platform. This project focuses on responsive design, smooth user experience, and clean architecture.  
 
@@ -16,10 +16,7 @@ A modern, lightweight frontend clone of **X (formerly Twitter)**, designed to re
 
 ## 🛠️ Tech Stack  
 
-- **Frontend Framework**: [React/Next.js/etc.]  
-- **Styling**: [CSS/SCSS/Tailwind/Bootstrap]  
-- **State Management**: [Redux/Zustand/etc.]  
-- **API Integration**: [REST/GraphQL/etc.]  
+- **Styling**: [CSS/SCSS/Tailwind/Bootstrap]   
 - **Icons & Assets**: [FontAwesome, HeroIcons, etc.]  
 
 ---
@@ -41,3 +38,6 @@ This project is built purely for learning and experimentation. It is not affilia
    ```bash
    git clone https://github.com/yourusername/chirpclone.git
    cd chirpclone
+
+# 
+Feel free to customize the placeholders and sections based on your specific implementation. Let me know if you'd like further adjustments!
